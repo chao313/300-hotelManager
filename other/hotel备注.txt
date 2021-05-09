@@ -1,0 +1,5 @@
+http://localhost:8081/hotel/login_index.do   前台首页
+
+http://localhost:8080/hotelManage/manage_index.do 后台首页
+
+

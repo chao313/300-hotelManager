@@ -1,0 +1,9 @@
+hotel/.settings
+.classpath
+*.iml
+hotel/.idea
+hotel/build
+hotel/classes
+hotelManage/build
+hotelManage/classes
+.project
